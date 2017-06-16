@@ -1,0 +1,22 @@
+{
+  "name": "Myframework2",
+  "version": "0.1.0",
+  "summary": "A short description of Myframework2.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Renan Araújo/Myframework2",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Renan Araújo": "nan.nsn@hotmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Renan Araújo/Myframework2.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Myframework2/Classes/**/*"
+}
